@@ -1,8 +1,8 @@
 ## Hi there...
 
-I'm deeply interested in the world of software development, especially in **web development**.  
-I enjoy building scalable and efficient web applications while continuously exploring new technologies.  
-My goal is to grow into a well-rounded **Full Stack Engineer**, always striving to improve my skills and stay up-to-date with industry trends.  
+I'm deeply passionate about software development, especially in **web development**.  
+I enjoy building scalable and efficient web applications while constantly exploring new technologies.  
+I always strive to improve my skills and stay up-to-date with industry trends.  
 
 <div align="center">
   
@@ -14,7 +14,15 @@ My goal is to grow into a well-rounded **Full Stack Engineer**, always striving 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=go,laravel,postgres,mysql,redis,html,css)]
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,linux)]
+![My Skills](https://skillicons.dev/icons?i=go,laravel,postgres,mysql,redis,html,css)  
+![My Skills](https://skillicons.dev/icons?i=postman,git,github,linux)  
+
+</div>
+
+### Connect With Me  
+
+<div align="left">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nova-dwiyanto/)
 
 </div>
