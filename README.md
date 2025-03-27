@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there...
 
-<!--
-**noovad/noovad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm deeply interested in the world of software development, especially in **web development**.  
+I enjoy building scalable and efficient web applications while continuously exploring new technologies.  
+My goal is to grow into a well-rounded **Full Stack Engineer**, always striving to improve my skills and stay up-to-date with industry trends.  
 
-Here are some ideas to get you started:
+<div align="center">
+  
+> **"Keep learning, because ahead lies many challenges and opportunities."**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🛠 Tech Stack  
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=go,laravel,postgres,mysql,redis,html,css)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,linux)](https://skillicons.dev)  
+
+</div>
