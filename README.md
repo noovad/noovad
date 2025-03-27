@@ -14,7 +14,7 @@ My goal is to grow into a well-rounded **Full Stack Engineer**, always striving 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=go,laravel,postgres,mysql,redis,html,css)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,linux)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=go,laravel,postgres,mysql,redis,html,css)]
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,linux)]
 
 </div>
