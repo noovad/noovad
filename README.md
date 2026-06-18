@@ -1,28 +1,23 @@
-## Hi there...
+# Hi there 👋
 
-I'm deeply passionate about software development, especially in **web development**.  
-I enjoy building scalable and efficient web applications while constantly exploring new technologies.  
-I always strive to improve my skills and stay up-to-date with industry trends.  
+I'm a software developer focused on building scalable web applications and backend systems.
 
-<div align="center">
-  
-> **"Keep learning, because ahead lies many challenges and opportunities."**  
+My primary expertise is in **Go**, **Laravel**, **Next.js**, and **React**, with a strong interest in system architecture, API development, performance optimization, and clean code practices.
 
-</div>
-
-## 🛠 Tech Stack  
+I enjoy learning new technologies, improving development workflows, and creating reliable solutions that solve real-world problems.
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=go,laravel,postgres,mysql,redis,html,css)  
-![My Skills](https://skillicons.dev/icons?i=postman,git,github,linux)  
+> **"Keep building, keep learning, and keep improving."**
 
 </div>
 
-### Connect With Me  
+## 🛠 Tech Stack
 
-<div align="left">
+<div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nova-dwiyanto/)
+![My Skills](https://skillicons.dev/icons?i=go,laravel,nextjs,react,ts,js)
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,docker)
+![My Skills](https://skillicons.dev/icons?i=git,github,linux,postman)
 
 </div>
