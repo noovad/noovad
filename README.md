@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm a software developer focused on building scalable web applications and backend systems.
+I'm a software developer passionate about building reliable, scalable, and maintainable applications.
 
-My primary expertise is in **Go**, **Laravel**, **Next.js**, and **React**, with a strong interest in system architecture, API development, performance optimization, and clean code practices.
+I enjoy designing efficient solutions, solving complex problems, and continuously improving both software quality and development processes.
 
-I enjoy learning new technologies, improving development workflows, and creating reliable solutions that solve real-world problems.
+Always learning, always building, and always looking for better ways to create meaningful technology.
 
 <div align="center">
 
