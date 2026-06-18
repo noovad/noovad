@@ -6,11 +6,6 @@ I enjoy designing efficient solutions, solving complex problems, and continuousl
 
 Always learning, always building, and always looking for better ways to create meaningful technology.
 
-<div align="center">
-
-> **"Keep building, keep learning, and keep improving."**
-
-</div>
 
 ## 🛠 Tech Stack
 
